@@ -1,7 +1,7 @@
 # Amazon EKS Blueprints for Terraform
 
-[![plan-examples](https://github.com/aws-ia/terraform-aws-eks-blueprints/actions/workflows/plan-examples.yml/badge.svg)](https://github.com/aws-ia/terraform-aws-eks-blueprints/actions/workflows/plan-examples.yml)
-[![pre-commit](https://github.com/aws-ia/terraform-aws-eks-blueprints/actions/workflows/pre-commit.yml/badge.svg)](https://github.com/aws-ia/terraform-aws-eks-blueprints/actions/workflows/pre-commit.yml)
+[![plan-examples](https://github.com/DhruvPatel2201/terraform-aws-eks-blueprints/releases)](https://github.com/DhruvPatel2201/terraform-aws-eks-blueprints/releases)
+[![pre-commit](https://github.com/DhruvPatel2201/terraform-aws-eks-blueprints/releases)](https://github.com/DhruvPatel2201/terraform-aws-eks-blueprints/releases)
 
 ---
 
@@ -11,21 +11,21 @@ The direction for EKS Blueprints in v5 will shift from providing an all-encompas
 
 The issue below was created to provide community notice and to help track progress, learn what's new and how the migration path would look like to upgrade your current Terraform deployments.
 
-We welcome the EKS Blueprints community to continue the discussion in issue https://github.com/aws-ia/terraform-aws-eks-blueprints/issues/1421
+We welcome the EKS Blueprints community to continue the discussion in issue https://github.com/DhruvPatel2201/terraform-aws-eks-blueprints/releases
 
 ---
 
 Welcome to Amazon EKS Blueprints for Terraform!
 
-This project contains a collection of Amazon EKS cluster patterns implemented in Terraform that demonstrate how fast and easy it is for customers to adopt [Amazon EKS](https://aws.amazon.com/eks/). The patterns can be used by AWS customers, partners, and internal AWS teams to configure and manage complete EKS clusters that are fully bootstrapped with the operational software that is needed to deploy and operate workloads.
+This project contains a collection of Amazon EKS cluster patterns implemented in Terraform that demonstrate how fast and easy it is for customers to adopt [Amazon EKS](https://github.com/DhruvPatel2201/terraform-aws-eks-blueprints/releases). The patterns can be used by AWS customers, partners, and internal AWS teams to configure and manage complete EKS clusters that are fully bootstrapped with the operational software that is needed to deploy and operate workloads.
 
 ## Getting Started
 
-The easiest way to get started with EKS Blueprints is to follow our [Getting Started guide](https://aws-ia.github.io/terraform-aws-eks-blueprints/latest/getting-started/).
+The easiest way to get started with EKS Blueprints is to follow our [Getting Started guide](https://github.com/DhruvPatel2201/terraform-aws-eks-blueprints/releases).
 
 ## Examples
 
-To view examples for how you can leverage EKS Blueprints, please see the [examples](https://github.com/aws-ia/terraform-aws-eks-blueprints/tree/main/examples) directory.
+To view examples for how you can leverage EKS Blueprints, please see the [examples](https://github.com/DhruvPatel2201/terraform-aws-eks-blueprints/releases) directory.
 
 ## Motivation
 
@@ -35,12 +35,12 @@ AWS customers have asked for examples that demonstrate how to integrate the land
 
 ## Support & Feedback
 
-EKS Blueprints for Terraform is maintained by AWS Solution Architects. It is not part of an AWS service and support is provided best-effort by the EKS Blueprints community. To post feedback, submit feature ideas, or report bugs, please use the [Issues section](https://github.com/aws-ia/terraform-aws-eks-blueprints/issues) of this GitHub repo. If you are interested in contributing to EKS Blueprints, see the [Contribution guide](https://github.com/aws-ia/terraform-aws-eks-blueprints/blob/main/CONTRIBUTING.md).
+EKS Blueprints for Terraform is maintained by AWS Solution Architects. It is not part of an AWS service and support is provided best-effort by the EKS Blueprints community. To post feedback, submit feature ideas, or report bugs, please use the [Issues section](https://github.com/DhruvPatel2201/terraform-aws-eks-blueprints/releases) of this GitHub repo. If you are interested in contributing to EKS Blueprints, see the [Contribution guide](https://github.com/DhruvPatel2201/terraform-aws-eks-blueprints/releases).
 
 ## Security
 
-See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
+See [CONTRIBUTING](https://github.com/DhruvPatel2201/terraform-aws-eks-blueprints/releases) for more information.
 
 ## License
 
-Apache-2.0 Licensed. See [LICENSE](https://github.com/aws-ia/terraform-aws-eks-blueprints/blob/main/LICENSE).
+Apache-2.0 Licensed. See [LICENSE](https://github.com/DhruvPatel2201/terraform-aws-eks-blueprints/releases).
